@@ -1,0 +1,2 @@
+# MyQTproject
+All about QT
